@@ -52,7 +52,7 @@ Open to career opportunities where I can grow as a developer and contribute to m
 | Project                                | Description                                                                                                                                                         | Tech Stack                        |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
 | 🛒 **ShopCart**                        | A full-stack e-commerce platform for buying and selling crops, with advanced search, filtering, and management features.                                | ReactJS · Tailwind CSS · Firebase |
-| 🦻 **Deaf Women Empowerment Platform** | A digital platform that supports deaf women by providing accessible resources, community connections, and opportunities for skill development and entrepreneurship. | Next.js · Node.js · MongoDB       |
+| 🦻 **Deaf Women Empowerment Platform** | A digital platform that supports deaf women by providing accessible resources, community connections, and opportunities for skill development and entrepreneurship. | ReactJS · Node.js · Postgress       |
 
 
 
